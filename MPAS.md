@@ -65,7 +65,7 @@ Version needed: 4.4.x
 
 #### Requirements:
 
-MPI C compiler: To be done
+MPI C compiler: To be done (Need help)
 
 #### Source Code:
 
@@ -93,5 +93,11 @@ Unzip:
 
 ```
 tar -xvf filename.tar.gz
+```
+
+Set env var:
+
+```
+export NETCDF=roottodir
 ```
 
